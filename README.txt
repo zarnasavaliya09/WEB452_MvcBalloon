@@ -18,7 +18,17 @@
 
 	0428EST
 	Let's make Data model class Balloon.cs
-	in model class i added six attribute category,occassion,color,size,shape and price with appropriate datatype.
+	in model class i added six attribute category,occassion,color,size,shape and price with its appropriate datatype.
+	Then Add NuGet Package Manager inside package manager console
+	and run the command Install-Package Microsoft.EntityFrameworkCore.SqlServer
+	ohh.. i get an error Package Microsoft.EntityFrameworkCore.SqlServer 7.0.3 is not compatible with netcoreapp 3.1
+	it's take too much time i think i have to move to next step.
+
+	0542EST
+	create database context class need to add CRUD operations for a Balloon model which extends DbContext
+
+
+
 
 
 
