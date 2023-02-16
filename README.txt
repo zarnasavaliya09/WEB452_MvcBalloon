@@ -12,6 +12,7 @@
 	0309EST
 	now ,its a time to change title of project to Up and Away Ballons.
 	next, add new controller named BalloonsController.cs
+	it's a time to create a view,so i create new folder named HelloWorld and add index.cshtml file.
 
 
 
