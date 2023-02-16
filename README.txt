@@ -16,6 +16,11 @@
 	add another navigation link About Us to Nav Menu and create view AboutUs.cshtml file.
 	Update footer to product name.
 
+	0428EST
+	Let's make Data model class Balloon.cs
+	in model class i added six attribute category,occassion,color,size,shape and price with appropriate datatype.
+
+
 
 
 
