@@ -36,6 +36,14 @@
 	no...i get an error :no parameterless constructor defined for type while scafolding.
 	so i again throughout the code , i found that i fprgot to add DBContext in ConfigurationServices method.
 
+	2023-02-17 0902EST
+	next, databasae creation using migration feature
+	by adding migration it will create migration folder generate InitialCreate.cs migration file 
+	Add-Migration InitialCreate
+
+	Update-Database
+	it update the databse to latest migration.
+
 
 
 
