@@ -43,6 +43,12 @@
 
 	Update-Database
 	it update the databse to latest migration.
+	run the application and see table is created with CRUD operation.
+	test all the function create, edit, update and it works welll..
+
+	1113EST
+	open the SQL server explorer and view table with data type
+	its time to seed the data-add SeedData class in models and add the data into context.
 
 
 
