@@ -1,0 +1,20 @@
+﻿
+body {
+    background-color:lightgray;
+}h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align:center;
+}
+img{
+    width:100%;
+}
+.about {
+    width: 300px;
+    margin-left: 400px;
+}
+p {
+    font-family : Calibri; 
+}
+.table{
+    border:dashed;
+}

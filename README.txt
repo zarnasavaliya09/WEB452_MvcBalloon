@@ -60,7 +60,9 @@
 	check in sql server its updated.
 
 	1255EST
-	update navigation link Home to Balloons and display product table in Ballons tab
+	update navigation link Home to Balloons and display product table in Ballons tab.
+	create welcome page with images 
+	create about us page with image and some introduction about company.
 
 
 
