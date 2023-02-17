@@ -14,5 +14,6 @@ namespace MvcBalloon.Models
         public string Size { get; set; }
         public string Shape { get; set; }
         public decimal Price { get; set; }
+        public decimal Rating { get; set; }
     }
 }

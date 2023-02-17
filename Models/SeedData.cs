@@ -30,7 +30,8 @@ namespace MvcBalloon.Models
                         Color = "Red",
                         Size = "Medium",
                         Shape = "Heart",
-                        Price=   2.25M
+                        Price=   2.25M,
+                        Rating = 3.0M
                     },
 
                     new Balloon
@@ -40,7 +41,9 @@ namespace MvcBalloon.Models
                         Color = "Pink",
                         Size = "Medium",
                         Shape = "Round",
-                        Price = 5.25M
+                        Price = 5.25M,
+                        Rating = 3.5M
+
                     },
 
                     new Balloon
@@ -50,7 +53,9 @@ namespace MvcBalloon.Models
                         Color = "Blue",
                         Size = "Medium",
                         Shape = "Round",
-                        Price = 1.25M
+                        Price = 1.25M,
+                        Rating = 4.9M
+
                     },
 
                     new Balloon
@@ -60,7 +65,9 @@ namespace MvcBalloon.Models
                         Color = "Silver",
                         Size = "Large",
                         Shape = "Heart",
-                        Price = 3.25M
+                        Price = 3.25M,
+                        Rating = 4.5M
+
                     }
                 );
                 context.SaveChanges();

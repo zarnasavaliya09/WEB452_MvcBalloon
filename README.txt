@@ -49,6 +49,19 @@
 	1113EST
 	open the SQL server explorer and view table with data type
 	its time to seed the data-add SeedData class in models and add the data into context.
+	add the seed initializer in program.cs
+	run the project in browser.see..it's update with seeded data.
+
+	i forgot to add rating property so, from begining add rating in model class.
+	update create and edit action method in controller class in Bind attribute.
+	update the view templates  in Index file and add Rating field.
+	update create.cshtml with rating field.
+	lastly,update the seeddata class.
+	check in sql server its updated.
+
+	1255EST
+	update navigation link Home to Balloons and display product table in Ballons tab
+
 
 
 
